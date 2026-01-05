@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Build/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path="global.json" />
+  </Folder>
+  <Project Path="NU1390.Abstracts/NU1390.Abstracts.csproj" />
+  <Project Path="NU1390.Additional/NU1390.Additional.csproj" />
+  <Project Path="NU1390.Tests/NU1390.Tests.csproj" />
+</Solution>

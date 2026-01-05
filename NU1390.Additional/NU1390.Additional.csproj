@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+      <ProjectReference Include="..\NU1390.Abstracts\NU1390.Abstracts.csproj" />
+    </ItemGroup>
+
+</Project>

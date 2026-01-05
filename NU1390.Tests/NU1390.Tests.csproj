@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+        <PackageReference Include="FluentAssertions" />
+        <PackageReference Include="NSubstitute" />
+        <PackageReference Include="NUnit" />
+        <PackageReference Include="Microsoft.Testing.Extensions.CodeCoverage" />
+        <PackageReference Include="Microsoft.Testing.Extensions.TrxReport" />
+        <PackageReference Include="Microsoft.Testing.Extensions.Telemetry" />
+        <PackageReference Include="Microsoft.Testing.Extensions.VSTestBridge" />
+        <PackageReference Include="Microsoft.Testing.Platform.MSBuild" />
+        <PackageReference Include="Microsoft.Extensions.DependencyModel" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\NU1390.Additional\NU1390.Additional.csproj" />
+    </ItemGroup>
+
+</Project>
